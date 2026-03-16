@@ -16,7 +16,7 @@ The generator relies on two primary functional blocks built around TL082 operati
 3. **Control Network:** The circuit utilizes E24 series resistors and multiple potentiometers to allow independent control over the oscillation frequency and the output amplitudes.
 
 ## Repository Contents
-* `Project_Documentation.pdf`: The complete design report. It includes:
+* `tr_sq_oscillator_documentation.pdf`: The complete design report. It includes:
   * The full OrCAD electrical schematic.
   * Mathematical design calculations for frequency and voltage dividers.
   * Component selection justifications and theoretical formulas.
